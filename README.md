@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:5B21B6,100:C084FC&height=230&section=header&text=AlbiDevv&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Backend%20Developer%20%7C%20Python%20%7C%20Go%20%7C%20Automation&descAlignY=62&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,45:6D28D9,100:C084FC&height=280&section=header&text=AlbiDevv&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Go%20%7C%20Automation&descAlignY=64&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=C084FC&center=true&vCenter=true&width=760&height=42&lines=Building+backend+services;Shipping+Python+automation+tools;Working+with+Go%2C+Docker+and+PostgreSQL;Turning+ideas+into+working+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=C084FC&center=true&vCenter=true&width=900&height=48&lines=Building+backend+services;Shipping+Python+automation+tools;Working+with+Go%2C+Docker+and+PostgreSQL;Turning+ideas+into+working+projects" />
 
 </div>
 
@@ -85,7 +85,7 @@ Video pipelines   Automation tools         Clean documentation
   </tr>
 </table>
 
-## 🧩 Что видно по проектам
+## 🧩 Что показывают проекты
 
 <table>
   <tr>
@@ -127,14 +127,14 @@ Video pipelines   Automation tools         Clean documentation
 
 </div>
 
-## ⚡ В двух словах
+## 💼 Подход к работе
 
 <table>
   <tr>
     <td>
-      <b>Пишу backend и инструменты, которые можно запустить локально, проверить и улучшать дальше.</b>
-      <br />
-      В проектах стараюсь показывать не только код, но и нормальную структуру: README, конфиги, Docker, тесты, понятный сценарий запуска и безопасную работу с переменными окружения.
+      <b>Мне важны не только код и идеи, но и то, насколько проект доведён до рабочего состояния.</b>
+      <br /><br />
+      В своих репозиториях я стараюсь показывать инженерный подход: понятную структуру, читаемый README, конфигурацию окружения, Docker-сценарии, безопасную работу с переменными окружения и внятный путь запуска. Для меня хороший проект — это тот, который можно открыть, понять и запустить без лишних вопросов.
     </td>
   </tr>
 </table>
@@ -143,6 +143,6 @@ Video pipelines   Automation tools         Clean documentation
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B21B6,100:C084FC&height=6&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,45:6D28D9,100:C084FC&height=8&section=footer" />
 
 </div>
